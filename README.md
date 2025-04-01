@@ -1,5 +1,6 @@
 # RUTUBE PRIVATE URL TO HTML GENERATOR
 ![rutube-private-url-to-html-generator-interface-scr](https://github.com/user-attachments/assets/9b3dd44f-a20f-415c-8c2e-32fc50b9974c)
+Формирует правильный код, для отображения роликов с доступом по ссылке без ошибок. Костыль для бага, который существует много лет на Rutube.
 # How to use
 1. В поле "Исходная ссылка" вставляется ссылка на видео.
 2. Нажимаем кнопку "Генерировать ссылку".
